@@ -1,6 +1,14 @@
- body {
+body {
     background-color: blue;
     text-size-adjust: 20px;
     padding: 30px;
 
+}
+
+footer {
+    background-color: rgb(38, 38, 72);
+    align-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-size-adjust: 15px;
+    text-decoration: rgb(247, 247, 247);
 }

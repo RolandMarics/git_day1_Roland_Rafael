@@ -1,8 +1,23 @@
 body {
-    background-color: blue;
+    background-color: white;
     text-size-adjust: 20px;
     padding: 30px;
+    
+}
 
+header{
+    position: center;
+    text-decoration-color: black;
+    background-color: aqua;
+    width: cover;
+
+}
+/*banner area*/
+
+ul {
+    width: 100%;
+    position: center;
+    text-align: center;
 }
 
 footer {
